@@ -229,7 +229,6 @@ GRANT ALL PRIVILEGES ON TABLE tasks TO tasksuser;
 GRANT ALL PRIVILEGES ON SCHEMA public TO tasksuser;
 ```
 
-
 ## Контрольные вопросы
 
 1. Зачем нужен systemd и чем он лучше "запуска в screen/tmux"?
